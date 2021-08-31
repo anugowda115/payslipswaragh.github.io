@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="sample5.css"?>
+<BU>
+<student>
+	<usn>15DKSB7048</usn>
+	<name>Hemanth</name>
+	<branch>BCA</branch>
+	<year>2018</year>
+	<college>SFGC</college>
+</student>	
+
+<student>
+	<usn>15DKSB7016</usn>
+	<name>Anusha</name>
+	<branch>BCA</branch>
+	<year>2018</year>
+	<college>SFGC</college>
+</student>	
+
+<student>
+	<usn>15DKSB7019</usn>
+	<name>Akshi</name>
+	<branch>BCA</branch>
+	<year>2018</year>
+	<college>SFGC</college>
+</student>	
+</BU>
